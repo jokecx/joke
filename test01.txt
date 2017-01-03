@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git branch is very power
+=======
+hahahahah
+>>>>>>> a4290438dffb94fc1dcc52541d4ec914e9cf2df2
